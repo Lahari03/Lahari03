@@ -1,10 +1,13 @@
-<img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
 <br/>
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Lahari-Krishnam&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png) -->
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center">I'm Lahari Krishnam 👩🏻</h2>
-<h3 align="center">CS Undergrad👩🏻‍💻 </h3>
+<!-- <h3 align="center">CS Undergrad👩🏻‍💻 </h3> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergrad;Web+Developer;ML+Enthusiast;Melomaniac&center=true&width=500&height=50"></a>
+<br />
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-brightgreen)   
