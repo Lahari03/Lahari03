@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lahari Krishnam !</h1>
-<h3 align="center">CS Undergrad 👩🏻‍💻</h3>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h2 align="center">I'm Lahari Krishnam 👩🏻</h2>
+<h4 align="center">CS Undergrad 👩🏻‍💻</h4>
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahari03&label=Profile%20views&color=0e75b6&style=flat" alt="lahari03" /> </p>
 
@@ -9,13 +10,6 @@
 - 💬 Ask me about **OOPS, DSA, DBMS, OS**
 
 - 📫 How to reach me **laharisai2022@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lahari03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahari03" height="30" width="40" /></a>
-<a href="https://instagram.com/lahari_k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahari_k03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lahari_k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lahari_k03" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages :</h3>
 <p align="left"> 
@@ -33,6 +27,14 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lahari03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahari03" height="30" width="40" /></a>
+<a href="https://instagram.com/lahari_k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lahari_k03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lahari_k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lahari_k03" height="30" width="40" /></a>
+</p>
+<br></br>
+<h3 align="left">Github Statistics: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahari03" alt="lahari03" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lahari03&show_icons=true&locale=en" alt="lahari03" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lahari03&" alt="lahari03" /></p>
