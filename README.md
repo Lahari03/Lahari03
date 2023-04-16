@@ -1,9 +1,10 @@
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
-<br/>
+<img align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg" />
+<!-- <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br/> -->
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Lahari-Krishnam&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png) -->
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> />! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2 align="center">I'm Lahari Krishnam 👩🏻</h2>
+<h2 align="center">I'm Lahari Krishnam 👩🏻‍💻</h2>
 <!-- <h3 align="center">CS Undergrad👩🏻‍💻 </h3> -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergrad;Web+Developer;ML+Enthusiast;Melomaniac&center=true&width=500&height=50"></a>
@@ -17,6 +18,7 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
+- 👩🏻 Pronouns - she/her.
 - 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2024. 
 - ✌🏻 I am graduating from SRM Institute of Science and Technology.
 - 🌱 I’m currently pursuing Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning.
