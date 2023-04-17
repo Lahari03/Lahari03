@@ -18,15 +18,15 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
-- 👩🏻 Pronouns - she/her.
-- 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2024. 
-- ✌🏻 I am graduating from SRM Institute of Science and Technology.
-- 🌱 I’m currently pursuing Computer Science Engineering with specialization in Artificial Intelligence and Machine Learning.
-- 👯 I’m looking to indulge myself more in Machine Learning and Web Development.
-- 🥅 2023 Goals: Contribute to some Open Source projects and be a successful Developer.
-- ⚡ Fun fact: I am an avid enthusiast of music. 
-- 📫 Reach out to me - **laharisai2022@gmail.com**
-- 🥅 Motto of life: One day, you'll leave this world behind. So, live a life you'll remember.
+👩🏻 Pronouns - she/her.<br>
+🧑🏻‍💻 Open to Software Engineering roles | Grad of 2024. <br>
+✌🏻 I am graduating from SRM Institute of Science and Technology.<br>
+🌱 I’m currently pursuing Computer Science Engineering with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;specialization in Artificial Intelligence and Machine Learning.<br>
+👯 I’m looking to indulge myself more in Machine Learning and Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development.<br>
+🥅 2023 Goals: Contribute to some Open Source projects and be a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;successful Developer.<br>
+⚡ Fun fact: I am an avid enthusiast of music. <br>
+📫 Reach out to me - **laharisai2022@gmail.com**<br>
+🥅 Motto of life: One day, you'll leave this world behind. So, live a life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you'll remember.<br>
 
 
 
