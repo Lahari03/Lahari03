@@ -22,11 +22,11 @@
 🧑🏻‍💻 Open to Software Engineering roles | Grad of 2024. <br>
 ✌🏻 I am graduating from SRM Institute of Science and Technology.<br>
 🌱 I’m currently pursuing Computer Science Engineering with &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;specialization in Artificial Intelligence and Machine Learning.<br>
-👯 I’m looking to indulge myself more in Machine Learning and Web &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Development.<br>
+👯 I’m looking to indulge myself more in Machine Learning and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Development.<br>
 🥅 2023 Goals: Contribute to some Open Source projects and be a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;successful Developer.<br>
 ⚡ Fun fact: I am an avid enthusiast of music. <br>
 📫 Reach out to me - **laharisai2022@gmail.com**<br>
-🥅 Motto of life: One day, you'll leave this world behind. So, live a life &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you'll remember.<br>
+🥅 Motto of life: One day, you'll leave this world behind. So, live a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;life you'll remember.<br>
 
 
 
